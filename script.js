@@ -150,5 +150,5 @@ function windowResizeHandler() {
 }
 
 function page1() {
-  window.location.href = 'page1.html';
+  //page1
 }
